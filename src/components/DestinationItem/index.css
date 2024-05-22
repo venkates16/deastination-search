@@ -1,0 +1,15 @@
+/* Write your CSS here */
+
+li {
+  list-style: none;
+  margin-bottom: 20px;
+}
+
+.img {
+  width: 40vw;
+  margin-right: 20px;
+}
+
+p {
+  text-align: left;
+}

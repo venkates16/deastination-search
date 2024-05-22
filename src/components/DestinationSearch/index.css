@@ -1,0 +1,35 @@
+/* Write your CSS here */
+.container {
+  background-color: rgba(38, 194, 46, 0.507);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.card {
+  display: flex;
+  justify-content: center;
+  border: 2px solid rgb(110, 57, 57);
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+img {
+  width: 25px;
+
+  cursor: pointer;
+}
+
+input {
+  outline: none;
+  border: 0px;
+  padding: 5px;
+}
+
+ul {
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  overflow-x: scroll;
+  align-items: flex-start;
+}
